@@ -1,5 +1,7 @@
-Homepage Readme
+PROJECT EULER
 
-make a homepage.
+create folders for each problem
 
-simple as that! ;-) 
+when writing a function for general math functions it may be helpful to store it
+in some sort of general location for use in other problems.
+
